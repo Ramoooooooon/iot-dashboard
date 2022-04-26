@@ -1,7 +1,5 @@
 # iot-dashboard
 ayos na
-<<<<<<< Updated upstream
+<<<<< Updated upstream
 
 okay na pre
-=======
->>>>>>> Stashed changes
